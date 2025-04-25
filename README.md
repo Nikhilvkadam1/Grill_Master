@@ -20,7 +20,3 @@
 - JavaScript (Vanilla JS)  
 - Google Fonts  
 - Ionicons
-
-## 📌 Live Preview (Optional)
-
-[🔗 View Site](https://your-hosted-link.com) <!-- Replace with actual URL when deployed -->
